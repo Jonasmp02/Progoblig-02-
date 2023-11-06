@@ -76,3 +76,6 @@ farayene
   else: "Error"
   end 
 end 
+
+#Her har alle flaggene blitt laget ferdig og kan bli laget ved en funksjon. for å få opp ønsket flagg må brukeren skrive flag("land").
+Har definert og har studert dimensjonene til de ulike flaggene, og har lagt til else: "error" hvis brukeren skulle ha skrevet et flagg som ikke er tilgjengelig. 
